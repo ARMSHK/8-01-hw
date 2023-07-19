@@ -8,9 +8,9 @@
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Dashboard](https://github.com/ARMSHK/Screenshots/tree/main/img/Dashboard.png?raw=true)
+![Dashboard](https://github.com/ARMSHK/8-01-hw/blob/main/Dashboard.png)
 
-![VM_Configeration](https://github.com/ARMSHK/Screenshots/tree/main/img/VM_configuration.png)
+![VM_Configeration](https://github.com/ARMSHK/8-01-hw/blob/main/VM_configuration.png)
 
 
 
