@@ -8,6 +8,6 @@
 
 `При необходимости прикрепитe сюда скриншоты
 
-![Dashboard](https://github.com/ARMSHK/Screenshots/tree/main/img/Dashboard.png?raw=true "Dashboard_Data")
+![Dashboard](VM_configuration.png)
 
-![VM_Configuration](https://github.com/ARMSHK/Screenshots/tree/main/img/VM_configuration.png?raw=true "VM_Configuration_Data")
+![VM_Configuration](VM_configuration.png)
